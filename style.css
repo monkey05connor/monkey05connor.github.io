@@ -1,0 +1,37 @@
+body {
+	background-color: gray;
+}
+
+#header {
+	background-color: #696969;
+}
+#headerToMainSpace {
+	padding-bottom: 250px;
+	background-color: gray;
+}
+#main {
+	background-color: #696969;
+}
+#mainToBottomSpace {
+	padding-top: 250px;
+	background-color: gray;
+}
+#bottom {
+	background-color: #696969;
+}
+a:hover {
+	color: tomato;
+}
+#left {
+	padding-left: 150px;
+
+}
+#right {
+	padding-right: 150px;
+}
+#purchase {
+	margin-right: 150px;
+}
+#admin {
+	margin-left: 150px;
+}
