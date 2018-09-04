@@ -1,8 +1,8 @@
 $(document).ready(() => {
 	$("#purchase").on("click", () => {
-		window.location = "monkey05connor.github.io/purchase.html";
+		window.location = "purchase.html";
 	});
 	$("#admin").on("click", () => {
-		window.location = "monkey05connor.github.io/administrate.html";
+		window.location = "administrate.html";
 	});
 });
